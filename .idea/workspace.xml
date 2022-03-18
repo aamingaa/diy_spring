@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="470c1d44-a6bf-4454-b719-b93c4121ff83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/bugstack/springframework/BeanDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/bugstack/springframework/BeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cn/bugstack/springframework/test/ApiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cn/bugstack/springframework/test/bean/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diy_spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/diy_spring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/bugstack/springframework/BeanDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/bugstack/springframework/BeanDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/bugstack/springframework/BeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/bugstack/springframework/BeanFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647498560078</updated>
-      <workItem from="1647498563986" duration="1799000" />
+      <workItem from="1647498563986" duration="2789000" />
     </task>
     <servers />
   </component>
